@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://facebook.com/diepluc1110" target="blank">
+  <a href="https://facebook.com/dieplucc1110" target="blank">
  <img width="64" height="64" src="https://img.icons8.com/laces/64/facebook-new.png" alt="facebook-new"/>
   </a>
   <a href="https://instagram.com/_dieplucc" target="blank">
